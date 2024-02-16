@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IronMOUSE7 Real Name- Santosh Ruchal
-- 👀 I’m interested in ANime
+- 👀 I’m interested in Anime
 - 🌱 I’m currently learning C,C++ Right Now
 - 💞️ I’m looking to collaborate on C and other programming languages
 - 😄 Pronouns: him
